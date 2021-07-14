@@ -1,7 +1,7 @@
 ## 👋 Hey! I'm Asis Kumar Rout
 
 - 👨‍💻 My last role was as a **SDE Intern** at [ServiceNow](https://www.servicenow.com/).
-- 👨‍🎓 I'm an IT engineering sophomore at **NITK , Surathkal**.
+- 👨‍🎓 I'm an IT engineering Final Year student at **NITK , Surathkal**.
 - 🌱 I’m currently learning ReactJS, BlockChain
 - 💞️ I’m looking to collaborate on Web Development and BlockChain Projects
 ### 🌐 Connect with me : 
