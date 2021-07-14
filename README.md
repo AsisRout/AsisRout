@@ -1,5 +1,7 @@
 ## 👋 Hey! I'm Asis Kumar Rout
 
+### I'm a Software Developer from Odisha, India.
+
 - 👨‍💻 My last role was as a **SDE Intern** at [ServiceNow](https://www.servicenow.com/).
 - 👨‍🎓 I'm an IT engineering Final Year student at **NITK , Surathkal**.
 - 🌱 I’m currently learning ReactJS, BlockChain
